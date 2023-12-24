@@ -1,9 +1,10 @@
 # vino_mexicano
-a repository for data and analysis of mexican wine
 
 ![plot](https://github.com/DanChitwood/vino_mexicano/blob/main/FIGURE.jpg)
 
 **Figure: The contribution of Mexican labor to grape production in California and Mexico.** Waffle plots showing the percent of farm laborers, graders, and sorters versus all US private wage and salary workers in 2021 that are of **A)** Mexican origin (red), other Hispanic (orange), white, not Hispanic (beige), Black, not Hispanic (black), and other, not Hispanic (gray) identities and **B)** US citizens (orange) and not US citizens (magenta). Data is from the USDA Economic Research Service (2023). **C)** Tonnes of grapes produced in California in 2022 including, left to right, table (green), wine (purple), and raisin (orange) grapes. California production is apportioned to labor from those of Mexican origin (color) versus not Mexican origin (grary). Data is from the United States Department of Agriculture (2023a). **D)** Tonnes of grapes produced by Mexican states in 2022. Circle size is proportional to tonnes of table (green), wine (purple), and raisin (orange) grapes produced. Data is from the Secretaria de Agricultura y Desarrollo Rural of Mexico (2023).
+
+![plot](https://github.com/DanChitwood/vino_mexicano/blob/main/TABLE.png)
 
 **Table: Percent difference between the top six red and white grape varieties in Mexico compared to California, 2022.** From United States Department of Agriculture (2023b).
 
