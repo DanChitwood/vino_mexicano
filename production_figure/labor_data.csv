@@ -1,0 +1,13 @@
+﻿type,location,labor,tonnes
+uva_pasa,california,mexico,494778.699
+uva_pasa,california,nonmexico,421478.151
+uva_pasa,mexico,mexico,18140
+uva_pasa,mexico,nonmexico,0
+uva_fruta,california,mexico,548665.488
+uva_fruta,california,nonmexico,467381.712
+uva_fruta,mexico,mexico,358790
+uva_fruta,mexico,nonmexico,0
+uva_vino,california,mexico,1655794.062
+uva_vino,california,nonmexico,1410491.238
+uva_vino,mexico,mexico,75195
+uva_vino,mexico,nonmexico,0

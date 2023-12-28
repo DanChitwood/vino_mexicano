@@ -1,0 +1,7 @@
+type,location,tons,tonnes,mexican,nonmexican
+uva_pasa,california,1010000,916256.85,494778.699,421478.151
+uva_fruta,california,1120000,1016047.2,548665.488,467381.712
+uva_vino,california,3380000,3066285.3,1655794.062,1410491.238
+uva_pasa,mexico,NA,18140,18140,0
+uva_fruta,mexico,NA,358790,358790,0
+uva_vino,mexico,NA,75195,75195,0
